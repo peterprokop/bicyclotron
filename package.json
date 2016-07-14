@@ -1,0 +1,31 @@
+{
+  "name": "bicyclotron",
+  "version": "0.0.1",
+  "description": "Wizard which simplifies creation of mobile apps (iOS and Android). Bicyclotron does for mobile the same Bootstrap does for web. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterprokop/bicyclotron.git"
+  },
+  "keywords": [
+    "mobile",
+    "iOS",
+    "Android",
+    "wizard",
+    "swift",
+    "java",
+    "template"
+  ],
+  "author": "Peter Prokop",
+  "license": "MIT",
+  "bin": {
+    "bicyclotron": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/peterprokop/bicyclotron/issues"
+  },
+  "homepage": "https://github.com/peterprokop/bicyclotron#readme"
+}
